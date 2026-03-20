@@ -1,0 +1,77 @@
+Nitin Kumar Bairwa
+nitinkumarbairwa101@gmail.com |
++91 9588867395 |
+Nitin Kumar
+nitin-kumar101
+Academic Qualifications
+Year
+Degree/Certificate
+Institute
+CGPA/%
+2024
+M.SC(5YR)
+Indian Institute of Technology, Kharagpur
+8.02/10
+2019
+RBSE(XII)
+Sumit Bal Sr. Sec. School, Kota
+91.80%
+2017
+RBSE(X)
+Sumit Bal Sr. Sec. School, Kota
+93.83%
+Experience
+TATA CONSULTANCY SERVICES | AI Engineer
+(Aug’24 - Current)
+Enterprise GenAI Platform Development
+• Collaboratively contributed to a globally distributed team in developing an AI platform for a major client’s employees
+• Built AI plugins with RAG, agentic workflows, multimodal, multilingual processing using Azure OpenAI and AWS Bedrock
+• Designed document pipelines with LangChain for ingestion, retrieval, and transformation, and LangGraph for agentic workflows
+• Deployed FastAPI pipelines with PostgreSQL (pgvector), vector and document DBs for metadata indexing and semantic search
+• Developed a plugin registry in FastAPI to manage plugin types, parameters, and prompts with dynamic API endpoint execution
+• Implemented document processing pipelines for multilingual text, images, diagrams, and large PDF files exceeding 3,000 pages
+• Engineered ingestion of diverse formats (PDF, PPTX, Excel, MHTML, PNG, JPG) into PostgreSQL with the pgvector extension
+• Built processing and retrieval pipelines for complex circuit diagrams related files, enabling extraction of component relationships
+• Developed MCP tools for custom retrieval and validation, integrated into the core RAG agent for improved performance
+Virtual Sales Agent
+• Developed Generative AI–based multi-agent implementation for a major global printer manufacturing enterprise client project
+• Implemented a multi-agent RAG application for sellers to enhance customer engagement and enable upsell with Azure AI
+• Built specialized Azure AI Search retriever agents and API-calling agents for accurate information retrieval and automation
+• Leveraged Microsoft’s MCP framework to host reusable prompts and tools that optimized performance of intelligent AI agents
+• Designed condition-based cyclic workflows with LangGraph for orchestrating agent responses and improving system adaptability
+• Implemented persistent memory for conversational agents in Cosmos DB to manage multiple user sessions and interactions
+Projects
+Extracting Material Parameters using ANNs | Master’s Thesis Project
+(April’24)
+• Developed ANNs for THz-TDS parameter extraction, achieving mean squared error significantly lower than traditional methods
+• Implemented DNNs and CNNs effectively employing scaled conjugate gradient backpropagation and Adam optimizers
+• Achieved remarkable MSE scores of 0.000012 and 0.000015 for DNN and CNN, respectively, on simulated data with noise
+Keyword Extraction from Road Accident Tweets | Natural Language Processing
+(May’23 - July’23)
+Advisor: Professor Sobhan Sarkar,IIM Ranchi
+• Analyzed road accident tweets with advanced NLP techniques, extracting 200,000+ tweets utilizing Snscrape
+• Utilized few-shot classification enhanced by INSTRUCTOR embeddings with K-means clustering using cosine distance metrics
+• Innovated keyword extraction, blending topic models (LDA,BERTopic) with word embeddings like RoBerta
+• The proposed model demonstrated strong coherence scores (> 0.8), signifying its effectiveness across various topic numbers
+2D Runner Game using Pygame | Python Development
+GitHub Link
+• Developed a Python game using pygame, showcasing character animations, evolving backgrounds, and dynamic gameplay
+• Strategically integrated coin accumulation, obstacle avoidance, and immersive visuals for a truly engaging player experience
+Competitions/Conferences
+Inter- Hall Data Analytics Challenge — IIT Kharagpur
+(Feb’22 -March’22)
+Objective: Analyze 38 months of sales data for an electronics hardware company and predict upcoming month’s sales
+• Conducted thorough Exploratory Data Analysis on the time series data, using statistical tests such as T-test and Z-test
+• Identified anomalies using Inter Quantile Range, Isolation Forest, and subsequently replacing them with moving average values
+• Employed time series forecasting models (Exponential Smoothing, ARIMA, SARIMA, Holts Winter) and DL models (LSTMs)
+• Achieved 0.18 MAPE by constructing a customized ensemble model of 8 forecasting algorithms, ensuring robust sales prediction
+Skills and Expertise
+• Programming Languages: C | C++ | Python | HTML | CSS | JavaScript | SQL
+• Softwares & Frameworks:
+Matplotlib | Pandas | NumPy | NLTK | TensorFlow | LangChain | scikit-learn | Scipy |
+BeautifulSoup | Keras | Langgraph | FastAPI | Flask | Kubernetes
+Certifications
+• Microsoft Certified:
+Azure Fundamentals, Azure AI Engineer Associate, Azure AI Fundamentals
+• CourseWork: Generative AI with Large Language Models, Neural Networks and Deep Learning, Probability and Statistics,
+Machine Learning foundations and applications, Programming and Data Structures

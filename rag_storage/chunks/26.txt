@@ -1,0 +1,13 @@
+ation Forest, and subsequently replacing them with moving average values
+• Employed time series forecasting models (Exponential Smoothing, ARIMA, SARIMA, Holts Winter) and DL models (LSTMs)
+• Achieved 0.18 MAPE by constructing a customized ensemble model of 8 forecasting algorithms, ensuring robust sales prediction
+Skills and Expertise
+• Programming Languages: C | C++ | Python | HTML | CSS | JavaScript | SQL
+• Softwares & Frameworks:
+Matplotlib | Pandas | NumPy | NLTK | TensorFlow | LangChain | scikit-learn | Scipy |
+BeautifulSoup | Keras | Langgraph | FastAPI | Flask
+Certifications
+• Microsoft Certified:
+Azure Fundamentals, Azure AI Engineer Associate, Azure AI Fundamentals
+• CourseWork: Generative AI with Large Language Models, Neural Networks and Deep Learning, Probability and Statistics,
+Machine Learning foundations and applications, Programming and Data Structures

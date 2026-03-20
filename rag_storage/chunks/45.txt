@@ -1,0 +1,12 @@
+l’24)
+• Developed ANNs for THz-TDS parameter extraction, achieving mean squared error significantly lower than traditional methods
+• Implemented DNNs and CNNs effectively employing scaled conjugate gradient backpropagation and Adam optimizers
+• Achieved remarkable MSE scores of 0.000012 and 0.000015 for DNN and CNN, respectively, on simulated data with noise
+Keyword Extraction from Road Accident Tweets | Natural Language Processing
+(May’23 - July’23)
+Advisor: Professor Sobhan Sarkar,IIM Ranchi
+• Analyzed road accident tweets with advanced NLP techniques, extracting 200,000+ tweets utilizing Snscrape
+• Utilized few-shot classification enhanced by INSTRUCTOR embeddings with K-means clustering using cosine distance metrics
+• Innovated keyword extraction, blending topic models (LDA,BERTopic) with word embeddings like RoBerta
+• The proposed model demonstrated strong coherence scores (> 0.8), signifying its effectiveness across various topic numbers
+2D Runner Game using Pygame | Python Devel

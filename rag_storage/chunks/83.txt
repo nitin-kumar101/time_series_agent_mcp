@@ -1,0 +1,3 @@
+ure AI Fundamentals
+• CourseWork: Generative AI with Large Language Models, Neural Networks and Deep Learning, Probability and Statistics,
+Machine Learning foundations and applications, Programming and Data Structures

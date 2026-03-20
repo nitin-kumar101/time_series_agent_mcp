@@ -1,0 +1,30 @@
+Nitin Kumar Bairwa
+nitinkumarbairwa101@gmail.com |
++91 9588867395 |
+Nitin Kumar
+nitin-kumar101
+Academic Qualifications
+Year
+Degree/Certificate
+Institute
+CGPA/%
+2024
+M.SC(5YR)
+Indian Institute of Technology, Kharagpur
+8.02/10
+2019
+RBSE(XII)
+Sumit Bal Sr. Sec. School, Kota
+91.80%
+2017
+RBSE(X)
+Sumit Bal Sr. Sec. School, Kota
+93.83%
+Experience
+TATA CONSULTANCY SERVICES | AI Engineer
+(Aug’24 - Current)
+Enterprise GenAI Platform Development
+• Collaboratively contributed to a globally distributed team in developing an AI platform for a major client’s employees
+• Built AI plugins with RAG, agentic workflows, multimodal, multilingual processing using Azure OpenAI and AWS Bedrock
+• Designed document pipelines with LangChain for ingestion, retrieval, and transformation, and LangGraph for agentic workflows
+• Deployed FastAPI pipelines with PostgreSQL (pgvector), vector and document DBs for metadata indexing and semantic search

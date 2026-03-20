@@ -1,0 +1,12 @@
+t for improved performance
+Virtual Sales Agent
+• Developed Generative AI–based multi-agent implementation for a major global printer manufacturing enterprise client project
+• Implemented a multi-agent RAG application for sellers to enhance customer engagement and enable upsell with Azure AI
+• Built specialized Azure AI Search retriever agents and API-calling agents for accurate information retrieval and automation
+• Leveraged Microsoft’s MCP framework to host reusable prompts and tools that optimized performance of intelligent AI agents
+• Designed condition-based cyclic workflows with LangGraph for orchestrating agent responses and improving system adaptability
+• Implemented persistent memory for conversational agents in Cosmos DB to manage multiple user sessions and interactions
+Projects
+Extracting Material Parameters using ANNs | Master’s Thesis Project
+(April’24)
+• Developed ANNs for THz-TDS parameter extraction, achieving mean squared error significantly lower than traditional meth

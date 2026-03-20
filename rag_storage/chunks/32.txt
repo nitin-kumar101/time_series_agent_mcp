@@ -1,0 +1,13 @@
+ith word embeddings like RoBerta
+• The proposed model demonstrated strong coherence scores (> 0.8), signifying its effectiveness across various topic numbers
+2D Runner Game using Pygame | Python Development
+GitHub Link
+• Developed a Python game using pygame, showcasing character animations, evolving backgrounds, and dynamic gameplay
+• Strategically integrated coin accumulation, obstacle avoidance, and immersive visuals for a truly engaging player experience
+Competitions/Conferences
+Inter- Hall Data Analytics Challenge — IIT Kharagpur
+(Feb’22 -March’22)
+Objective: Analyze 38 months of sales data for an electronics hardware company and predict upcoming month’s sales
+• Conducted thorough Exploratory Data Analysis on the time series data, using statistical tests such as T-test and Z-test
+• Identified anomalies using Inter Quantile Range, Isolation Forest, and subsequently replacing them with moving average values
+• Employed time series forecasting models (Exponential Smoothing, ARIMA, SARI

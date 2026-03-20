@@ -1,0 +1,10 @@
+ngestion, retrieval, and transformation, and LangGraph for agentic workflows
+• Deployed FastAPI pipelines with PostgreSQL (pgvector), vector and document DBs for metadata indexing and semantic search
+• Developed a plugin registry in FastAPI to manage plugin types, parameters, and prompts with dynamic API endpoint execution
+• Implemented document processing pipelines for multilingual text, images, diagrams, and large PDF files exceeding 3,000 pages
+• Engineered ingestion of diverse formats (PDF, PPTX, Excel, MHTML, PNG, JPG) into PostgreSQL with the pgvector extension
+• Designed hybrid search workflows with prompt tuning for layout recognition and optimized retrieval using asynchronous execution
+Virtual Sales Agent
+• Developed Generative AI–based multi-agent implementation for a major global printer manufacturing enterprise client project
+• Implemented a multi-agent RAG application for sellers to enhance customer engagement and enable upsell with Azure AI
+• Built specialized Azure AI Se
