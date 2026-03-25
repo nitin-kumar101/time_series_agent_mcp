@@ -14,7 +14,7 @@ A comprehensive Python application that uses LangGraph and AI agents to automati
 - **📊 Interactive Visualizations**: Plotly-based charts and dashboards
 - **📋 Detailed Reports**: HTML and JSON reports with analysis summaries
 - **🎯 Multiple Interfaces**: Command-line and interactive modes
-
+lmp8IVnBcAMaBf1OyDFqWGdyb3FY2ANBuMroe3ng5iUBTVQQCtAn
 ## Installation
 
 1. Clone or download the project files
